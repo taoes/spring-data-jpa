@@ -29,3 +29,5 @@ build/
 
 ### VS Code ###
 .vscode/
+./Ds_store
+./spring-jpa-demo.iml
